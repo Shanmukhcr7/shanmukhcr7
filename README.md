@@ -90,10 +90,11 @@ A smart system that detects products from images and finds the cheapest price ac
 ---
 ## 📊 GitHub Analytics
 
-![Shanmukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanmukhcr7&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=shanmukhcr7&theme=tokyonight&show_icons=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukhcr7&layout=compact&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shanmukhcr7&theme=tokyonight)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukhcr7&layout=compact&theme=tokyonight)
 ---
 
 # 🔥 GitHub Streak
