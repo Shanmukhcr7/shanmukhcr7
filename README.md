@@ -88,13 +88,6 @@ A system that detects products from images and finds the cheapest price online.
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=shanmukhcr7\&theme=tokyonight)
-
----
-
-## 📈 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukhcr7\&layout=compact\&theme=tokyonight)
-
 ---
 
 ## 🌐 Connect With Me
