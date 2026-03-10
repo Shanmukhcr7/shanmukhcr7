@@ -77,46 +77,6 @@ to solve **real-world problems with intelligent software systems.**
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-orange?style=for-the-badge&logo=cloudflare)
 
 ---
-
-# 🚀 Featured Projects
-
-### 🎬 Movie Lovers — CMS Platform
-A production-ready **content management system similar to IMDb**
-
-Features:
-
-- Dynamic movie reviews and ratings
-- Role-based authentication
-- Real-time database updates
-- SEO optimization
-
----
-
-### ♻️ Smart AI Waste Classification System
-
-AI-powered **IoT waste classification system**
-
-Capabilities:
-
-- Computer vision waste detection
-- TensorFlow-based classification
-- QR reward system for recycling incentives
-- Automated sorting system
-
----
-
-### 🧠 Age-X Face Recognition
-
-AI system that performs **real-time age verification**
-
-Features:
-
-- Face detection from webcam
-- Age estimation using AI models
-- Prevents underage access to restricted platforms
-
----
-
 ### ⚡ Automation & AI Tools
 
 I also develop various automation systems including:
