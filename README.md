@@ -97,12 +97,6 @@ A smart system that detects products from images and finds the cheapest price ac
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukhcr7&layout=compact&theme=tokyonight)
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=shanmukhcr7&theme=tokyonight"/>
-</p>
-
 ---
 
 # 📈 Contribution Graph
