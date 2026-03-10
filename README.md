@@ -89,15 +89,12 @@ A smart system that detects products from images and finds the cheapest price ac
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shanmukhcr7&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukhcr7&layout=compact&theme=tokyonight"/>
-
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=shanmukhcr7&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukhcr7&layout=compact&theme=tokyonight" height="180"/>
+</p>>
 
 ---
 
