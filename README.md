@@ -1,105 +1,155 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Veerepalli Shanmukh</h1>
-<h3 align="center">🚀 AI & Automation Developer | Full-Stack Enthusiast | BTech Student</h3>
+<!-- HEADER -->
+<h1 align="center">👋 Hey, I'm Veerepalli Shanmukh</h1>
+<h3 align="center">AI Engineer | Automation Architect | Full-Stack Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F72A&center=true&vCenter=true&width=600&lines=AI+Developer;Automation+Builder;Full+Stack+Developer;Python+%7C+JavaScript+%7C+Web+Apps;Building+Smart+Tech+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F72A&center=true&vCenter=true&width=650&lines=AI+Developer;Machine+Learning+Engineer;Automation+Architect;Full+Stack+Developer;Computer+Vision+Engineer;Building+Intelligent+Systems" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shanmukhcr7&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 🧠 About Me
 
-🎓 **BTech Student** (Graduating 2027)  
-📍 **Hyderabad, India**
+🎓 **B.Tech in Artificial Intelligence — Anurag University**  
+📍 Hyderabad, India  
 
-I am passionate about building **AI-powered tools, automation systems, and modern web applications** that solve real-world problems.
+I am an **AI-focused developer and full-stack engineer** passionate about building **intelligent automation systems, AI-powered applications, and scalable web platforms.**
 
-I enjoy exploring new technologies and building innovative systems using **Artificial Intelligence, Python, and modern web technologies.**
+My work focuses on combining:
 
-💡 I focus on creating **smart automation tools, bots, and real-time applications** that improve productivity and efficiency.
+- 🤖 Artificial Intelligence  
+- 🧠 Machine Learning  
+- 🌐 Full-Stack Development  
+- ⚡ Automation Systems  
 
----
-
-## 🚀 Current Focus
-
-- 🤖 Artificial Intelligence & Prompt Engineering  
-- ⚙️ Automation Bots & Intelligent Systems  
-- ☁️ Cloud Computing  
-- 🌐 Scalable Web Applications  
-- 🔗 API Integrations  
-- 📡 Real-Time Communication Systems  
+to solve **real-world problems with intelligent software systems.**
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ Technical Expertise
 
 ### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Web Technologies
+---
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
+### 🤖 AI / Machine Learning
 
-### ⚙️ Tools & Platforms
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai)
+![Computer Vision](https://img.shields.io/badge/ComputerVision-blue?style=for-the-badge)
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/API-005571?style=for-the-badge)
+**Skills**
+
+- Machine Learning
+- Computer Vision
+- AI Model Integration
+- LLM API Integration
+- Automation Systems
 
 ---
 
-## 🧠 Specializations
+### 🌐 Full-Stack Development
 
-✔ Automation Bots  
-✔ AI Integrations  
-✔ Full-Stack Web Development  
-✔ Real-Time Chat Systems  
-✔ API Automation  
-✔ Intelligent Web Tools  
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/ExpressJS-black?style=for-the-badge)
+![React](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js)
+
+---
+
+### ☁️ Tools & Cloud Platforms
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-orange?style=for-the-badge&logo=cloudflare)
 
 ---
 
 # 🚀 Featured Projects
 
-### 🤖 Telegram Automation Bots
-Automation bots built using Python that scrape data, process information, and deliver updates automatically.
+### 🎬 Movie Lovers — CMS Platform
+A production-ready **content management system similar to IMDb**
 
-### 🧠 AI Screenshot Reader
-A Python tool that captures screen regions dynamically and analyzes them using AI models.
+Features:
 
-### 📡 Live Streaming Chat Website
-A real-time live streaming platform with chat functionality built using **Node.js and Socket.io**.
-
-### 💻 Online Code Execution Platform
-A secure online platform where users can write, compile, and run code directly from the browser.
-
-### 🌍 GeoGuessr Global Explorer
-A location guessing game powered by **Google Maps APIs**.
-
-### 🛒 AI Product Price Finder
-A smart system that detects products from images and finds the cheapest price across online stores.
-
----
-## 📊 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=shanmukhcr7&theme=tokyonight&show_icons=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=shanmukhcr7&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukhcr7&layout=compact&theme=tokyonight)
----
+- Dynamic movie reviews and ratings
+- Role-based authentication
+- Real-time database updates
+- SEO optimization
 
 ---
 
-# 📈 Contribution Graph
+### ♻️ Smart AI Waste Classification System
+
+AI-powered **IoT waste classification system**
+
+Capabilities:
+
+- Computer vision waste detection
+- TensorFlow-based classification
+- QR reward system for recycling incentives
+- Automated sorting system
+
+---
+
+### 🧠 Age-X Face Recognition
+
+AI system that performs **real-time age verification**
+
+Features:
+
+- Face detection from webcam
+- Age estimation using AI models
+- Prevents underage access to restricted platforms
+
+---
+
+### ⚡ Automation & AI Tools
+
+I also develop various automation systems including:
+
+- Telegram automation bots
+- AI screen recognition tools
+- Real-time chat systems
+- AI product search engines
+- Web automation platforms
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shanmukhcr7&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukhcr7&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=shanmukhcr7&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanmukhcr7&theme=tokyo-night"/>
@@ -107,17 +157,33 @@ A smart system that detects products from images and finds the cheapest price ac
 
 ---
 
+# 🏆 Achievements
+
+🏅 1st Place — Technical Quiz (ITqHub Spring Boot Workshop)
+
+💡 Provided technical solutions and feature development for early-stage startups.
+
+🚀 Built multiple AI systems and full-stack applications solving real-world problems.
+
+---
+
+# 🧩 Professional Skills
+
+✔ Problem Solving  
+✔ System Design  
+✔ Agile Development  
+✔ Rapid Prototyping  
+✔ Technical Writing  
+
+---
+
 # 🌐 Connect With Me
 
-📧 Email: **shanmukhchowdary63@gmail.com**  
-📍 Location: **Hyderabad, India**
+📧 **Email:** shanmukhchowdary63@gmail.com  
+📍 **Location:** Hyderabad, India  
 
 ---
 
-# ⚡ Fun Fact
+# ⚡ Philosophy
 
-💡 I enjoy building **AI-driven automation systems and tools that simplify complex tasks.**
-
----
-
-⭐ **“Building intelligent systems that combine AI, automation, and real-world problem solving.”**
+> “Great software is built where **AI, automation, and creativity intersect**.”
