@@ -88,13 +88,11 @@ A location guessing game powered by **Google Maps APIs**.
 A smart system that detects products from images and finds the cheapest price across online stores.
 
 ---
-
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanmukhcr7&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukhcr7&layout=compact&theme=tokyonight" height="180"/>
-</p>>
+![Shanmukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanmukhcr7&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukhcr7&layout=compact&theme=tokyonight)
 
 ---
 
