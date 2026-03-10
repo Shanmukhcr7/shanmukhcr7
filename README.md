@@ -1,100 +1,92 @@
-# 👋 Hi, I'm Veerepalli Shanmukh
+🚀 Hi, I'm Veerepalli Shanmukh
 
-🚀 **BTech Student | AI & Automation Developer | Full-Stack Enthusiast**
+AI & Automation Engineer | Full-Stack Developer | BTech '27
 
-Welcome to my GitHub! I'm passionate about building **automation tools, AI-powered applications, bots, and web platforms** that solve real-world problems.
+<p align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dwaving%26color%3D0:696eff,100:f8acff%26height%3D220%26section%3Dheader%26text%3DBuilding%2520the%2520Future%2520with%2520AI%26fontSize%3D50%26animation%3DfadeIn%26fontAlignY%3D35" />
+</p>
 
----
+👨‍💻 Professional Summary
 
-## 👨‍💻 About Me
+I am a results-driven Software Developer and AI Enthusiast based in Hyderabad, India. Currently pursuing my BTech (Class of 2027), I specialize in architecting automated ecosystems, intelligent bots, and scalable web platforms. I bridge the gap between complex AI models and practical, real-world applications.
 
-🎓 BTech Student (Graduating in 2027)
-📍 Hyderabad, India
-🤖 Passionate about **Artificial Intelligence, Automation, and Web Development**
-💡 I enjoy building tools that automate tasks and make systems smarter
+🔭 Currently working on: Advanced AI-driven Product Intelligence Systems.
 
-I love exploring new technologies and creating innovative projects using **AI, Python, and modern web technologies.**
+🌱 Learning: Distributed Systems and LLM Fine-tuning.
 
----
+💬 Ask me about: Python Automation, Bot Development, and Socket.io.
 
-## 🧠 Current Interests
+⚡ Goal: To build technology that eliminates repetitive tasks through smart automation.
 
-* Artificial Intelligence & Prompt Engineering
-* Automation Bots
-* Cloud Computing
-* Web Applications
-* Real-time Systems
-* API Integrations
+🛠️ Technical Ecosystem
 
----
+💻 Languages & Core
 
-## 🛠️ Tech Stack
+⚙️ Frameworks & Backend
 
-**Languages**
+🛠️ Tools & DevOps
 
-* Python
-* Java
-* JavaScript
-* HTML / CSS
+🚀 Featured Projects
 
-**Frameworks & Tools**
+Project
 
-* Node.js
-* Socket.io
-* Firebase
-* Git & GitHub
-* Android Studio
-* REST APIs
+Description
 
-**Specializations**
+Tech Stack
 
-* Automation Bots
-* AI Integrations
-* Web Development
-* Real-Time Chat Systems
+🤖 Telegram Auto-Suite
 
----
+Scalable bots for data scraping and automated community management.
 
-## 🚀 Projects
+Python, Telethon, APIs
 
-Here are some of the projects I’ve built:
+🔍 AI Vision Reader
 
-🔹 **Telegram Automation Bots**
-Bots that automate tasks, scrape data, and deliver useful information.
+Real-time OCR and region-based screen analysis tool for instant data extraction.
 
-🔹 **AI Screenshot Reader**
-A Python tool that captures screen regions and uses AI to analyze and extract information.
+Python, OpenCV, GPT-4o
 
-🔹 **Live Streaming Chat Website**
-A real-time streaming platform with live chat using **Node.js and Socket.io**.
+📡 LiveStream Sync
 
-🔹 **Online Code Execution Platform**
-A web platform where users can write and run code online with secure execution.
+Real-time streaming platform with ultra-low latency chat capabilities.
 
-🔹 **GeoGuessr Global Explorer**
-A location-guessing game built using Google Maps APIs.
+Node.js, Socket.io
 
-🔹 **AI Product Price Finder**
-A system that detects products from images and finds the cheapest price online.
+💻 CloudCode IDE
 
----
+A secure web-based compiler supporting multiple language executions.
 
-## 📊 GitHub Stats
+React, Firebase, Docker
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanmukhcr7\&show_icons=true\&theme=tokyonight)
+🗺️ Global Explorer
 
----
+Competitive geography game leveraging Google Maps API for location discovery.
 
-## 🔥 GitHub Streak
+JS, Maps API, Firebase
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=shanmukhcr7\&theme=tokyonight)
----
+📊 Analytics & Impact
 
-## 🌐 Connect With Me
+<p align="center">
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dshanmukhcr7%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue" />
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dshanmukhcr7%26layout%3Dcompact%26langs_count%3D7%26theme%3Dtokyonight" />
+</p>
 
-📧 Email: **[shanmukhchowdary63@gmail.com](mailto:shanmukhchowdary63@gmail.com)**
-📍 Location: **Hyderabad, India**
+<p align="center">
+<img src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3Dshanmukhcr7%26theme%3Dtokyonight" alt="GitHub Streak" />
+</p>
 
----
+🌐 Connectivity
 
-⭐ *"I enjoy building AI-driven tools and automation systems that make technology smarter and more efficient."*
+Ready to collaborate on innovative projects or discuss AI automation?
+
+📧 Email: shanmukhchowdary63@gmail.com
+
+💼 LinkedIn: In/Veerepalli-Shanmukh (Add your link here)
+
+📍 Location: Hyderabad, India
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Let%27s%2520Work-Together-blue%3Fstyle%3Dfor-the-badge" />
+</p>
+
+“Simplicity is the soul of efficiency. I build for both.”
