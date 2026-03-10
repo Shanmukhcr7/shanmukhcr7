@@ -1,100 +1,133 @@
-# 👋 Hi, I'm Veerepalli Shanmukh
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm Veerepalli Shanmukh</h1>
+<h3 align="center">🚀 AI & Automation Developer | Full-Stack Enthusiast | BTech Student</h3>
 
-🚀 **BTech Student | AI & Automation Developer | Full-Stack Enthusiast**
-
-Welcome to my GitHub! I'm passionate about building **automation tools, AI-powered applications, bots, and web platforms** that solve real-world problems.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F72A&center=true&vCenter=true&width=600&lines=AI+Developer;Automation+Builder;Full+Stack+Developer;Python+%7C+JavaScript+%7C+Web+Apps;Building+Smart+Tech+Solutions" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 BTech Student (Graduating in 2027)
-📍 Hyderabad, India
-🤖 Passionate about **Artificial Intelligence, Automation, and Web Development**
-💡 I enjoy building tools that automate tasks and make systems smarter
+🎓 **BTech Student** (Graduating 2027)  
+📍 **Hyderabad, India**
 
-I love exploring new technologies and creating innovative projects using **AI, Python, and modern web technologies.**
+I am passionate about building **AI-powered tools, automation systems, and modern web applications** that solve real-world problems.
+
+I enjoy exploring new technologies and building innovative systems using **Artificial Intelligence, Python, and modern web technologies.**
+
+💡 I focus on creating **smart automation tools, bots, and real-time applications** that improve productivity and efficiency.
 
 ---
 
-## 🧠 Current Interests
+## 🚀 Current Focus
 
-* Artificial Intelligence & Prompt Engineering
-* Automation Bots
-* Cloud Computing
-* Web Applications
-* Real-time Systems
-* API Integrations
+- 🤖 Artificial Intelligence & Prompt Engineering  
+- ⚙️ Automation Bots & Intelligent Systems  
+- ☁️ Cloud Computing  
+- 🌐 Scalable Web Applications  
+- 🔗 API Integrations  
+- 📡 Real-Time Communication Systems  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### 💻 Programming Languages
 
-* Python
-* Java
-* JavaScript
-* HTML / CSS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frameworks & Tools**
+### 🌐 Web Technologies
 
-* Node.js
-* Socket.io
-* Firebase
-* Git & GitHub
-* Android Studio
-* REST APIs
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
 
-**Specializations**
+### ⚙️ Tools & Platforms
 
-* Automation Bots
-* AI Integrations
-* Web Development
-* Real-Time Chat Systems
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/API-005571?style=for-the-badge)
 
 ---
 
-## 🚀 Projects
+## 🧠 Specializations
 
-Here are some of the projects I’ve built:
-
-🔹 **Telegram Automation Bots**
-Bots that automate tasks, scrape data, and deliver useful information.
-
-🔹 **AI Screenshot Reader**
-A Python tool that captures screen regions and uses AI to analyze and extract information.
-
-🔹 **Live Streaming Chat Website**
-A real-time streaming platform with live chat using **Node.js and Socket.io**.
-
-🔹 **Online Code Execution Platform**
-A web platform where users can write and run code online with secure execution.
-
-🔹 **GeoGuessr Global Explorer**
-A location-guessing game built using Google Maps APIs.
-
-🔹 **AI Product Price Finder**
-A system that detects products from images and finds the cheapest price online.
+✔ Automation Bots  
+✔ AI Integrations  
+✔ Full-Stack Web Development  
+✔ Real-Time Chat Systems  
+✔ API Automation  
+✔ Intelligent Web Tools  
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanmukhcr7\&show_icons=true\&theme=tokyonight)
+### 🤖 Telegram Automation Bots
+Automation bots built using Python that scrape data, process information, and deliver updates automatically.
+
+### 🧠 AI Screenshot Reader
+A Python tool that captures screen regions dynamically and analyzes them using AI models.
+
+### 📡 Live Streaming Chat Website
+A real-time live streaming platform with chat functionality built using **Node.js and Socket.io**.
+
+### 💻 Online Code Execution Platform
+A secure online platform where users can write, compile, and run code directly from the browser.
+
+### 🌍 GeoGuessr Global Explorer
+A location guessing game powered by **Google Maps APIs**.
+
+### 🛒 AI Product Price Finder
+A smart system that detects products from images and finds the cheapest price across online stores.
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Analytics
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=shanmukhcr7\&theme=tokyonight)
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shanmukhcr7&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukhcr7&layout=compact&theme=tokyonight"/>
+
+</p>
+
 ---
 
-## 🌐 Connect With Me
+# 🔥 GitHub Streak
 
-📧 Email: **[shanmukhchowdary63@gmail.com](mailto:shanmukhchowdary63@gmail.com)**
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=shanmukhcr7&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shanmukhcr7&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+📧 Email: **shanmukhchowdary63@gmail.com**  
 📍 Location: **Hyderabad, India**
 
 ---
 
-⭐ *"I enjoy building AI-driven tools and automation systems that make technology smarter and more efficient."*
+# ⚡ Fun Fact
+
+💡 I enjoy building **AI-driven automation systems and tools that simplify complex tasks.**
+
+---
+
+⭐ **“Building intelligent systems that combine AI, automation, and real-world problem solving.”**
