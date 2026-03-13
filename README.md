@@ -114,17 +114,6 @@ I also develop various automation systems including:
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanmukhcr7&theme=tokyo-night"/>
 </p>
-
----
-
-# 🏆 Achievements
-
-🏅 1st Place — Technical Quiz (ITqHub Spring Boot Workshop)
-
-💡 Provided technical solutions and feature development for early-stage startups.
-
-🚀 Built multiple AI systems and full-stack applications solving real-world problems.
-
 ---
 
 # 🧩 Professional Skills
